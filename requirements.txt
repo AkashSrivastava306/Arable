@@ -77,4 +77,4 @@ wcwidth==0.2.6
 Werkzeug==2.2.3
 wrapt==1.15.0
 requests[security] == 2.9.1 
-tensorflow.keras==2.11.0
+tensorflow.keras<=2.11.0
