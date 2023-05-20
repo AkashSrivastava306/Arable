@@ -1,4 +1,4 @@
-cudatoolkit==11.6
+
 gunicorn==19.9.0
 absl-py==1.4.0
 asttokens==2.2.1
@@ -64,7 +64,7 @@ stack-data==0.6.2
 tensorboard==2.11.2
 tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.1
-tensorflow==2.11.0
+tensorflow-cpu==2.7.0
 tensorflow-estimator==2.11.0
 tensorflow-intel<=2.11.0
 tensorflow-io-gcs-filesystem==0.31.0
